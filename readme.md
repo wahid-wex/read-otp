@@ -5,6 +5,7 @@ This package created to read otp-sms in web.
 you just need to implement function and then wait for otp-sms.
 this function will automatically abort after 2 minute, so if you want to wait more change the parameter.
 ```ts
+import { readOtpSms } from "read-otp"
 // wait for 3 minute to get OTP-SMS
 readOtpSms(3).then((code: string) => {
     // set the code anywhere you want. 
