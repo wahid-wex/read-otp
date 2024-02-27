@@ -1,6 +1,6 @@
 {
   "name": "read-otp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package created to read otp-sms in web.",
   "main": "index.js",
   "scripts": {
