@@ -1,6 +1,0 @@
-{
-  "compileOnSave": false,
-  "compilerOptions": {
-    "lib": ["es2021", "dom"],
-  }
-}
